@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Détection de contours}{4}{0}{2}
+\beamer@sectionintoc {3}{Transformation de Hough d’une droite}{5}{0}{3}
+\beamer@sectionintoc {4}{Etiquetage de régions}{6}{0}{4}
+\beamer@sectionintoc {5}{Recherche d’un motif}{7}{0}{5}
+\beamer@sectionintoc {6}{Exemple pratique}{8}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{9}{0}{7}
